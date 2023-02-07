@@ -1,0 +1,4 @@
+https://forums.raspberrypi.com/viewtopic.php?t=245931
+
+dmesg
+usb-storage.quirks=aaaa:bbbb:u
