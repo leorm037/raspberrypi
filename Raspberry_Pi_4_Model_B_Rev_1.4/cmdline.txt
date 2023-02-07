@@ -1,4 +1,5 @@
 https://forums.raspberrypi.com/viewtopic.php?t=245931
+https://www.youtube.com/watch?v=AenM-JrG098
 
 dmesg
 usb-storage.quirks=aaaa:bbbb:u
